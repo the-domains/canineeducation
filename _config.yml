@@ -1,14 +1,26 @@
-layout_spectrum: 0.9193549
-typography_spectrum: 0.8799283
 color:
   saturation: 0.8799283
-  lightness: 0.6971326
   brandStrength: 0.204686
+  rhythmicContrast: 0.7222222
   brandColors:
     - '#1F1616'
     - '#D0915B'
     - '#544A49'
     - '#AB9A93'
     - '#FBC5B5'
-  rhythmicContrast: 0.7222222
+  lightness: 0.6971326
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9193549
+typography_spectrum: 0.8799283
 name: Canineeducation
