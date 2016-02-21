@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.8799283
 color:
   saturation: 1
   brandStrength: 0.8602151
-  lightness: 0.3100359
+  lightness: 1
   brandColors:
     - '#9A6531'
     - '#4B414B'
     - '#282120'
     - '#B4AB9A'
     - '#FFDF9B'
-  rhythmicContrast: 0.7562724
-typography_spectrum: 0.8799283
+  rhythmicContrast: 0.530466
 layout_spectrum: 0.6702509
-name: Canineeducation
+name: Canineeducation.ca
