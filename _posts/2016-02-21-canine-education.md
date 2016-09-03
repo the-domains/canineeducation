@@ -1,18 +1,22 @@
 ---
-description: ''
+description: >-
+  We work with Animatch, If you want to find a great family companion Animatch
+  is the place to go, we also give a 10% Discount to any Animatch Rescue for
+  training.
+isBasedOnUrl: 'urn:uuid:acbd440f-ca7c-41cc-8926-9717b9b04c5f'
 author: []
-datePublished: '2016-02-21T17:03:33.690Z'
-publisher:
-  domain: ''
-  name: ''
+datePublished: '2016-08-31T17:16:32.873Z'
+publisher: null
 title: Canine Education
-dateModified: '2016-02-21T17:01:52.368Z'
+dateModified: '2016-06-14T03:12:03.811Z'
 sourcePath: _posts/2016-02-21-canine-education.md
-published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: canine-education/index.html
+inLanguage: null
+keywords: []
+authors: []
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
