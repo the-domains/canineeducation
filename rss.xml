@@ -4,7 +4,7 @@
         <description><![CDATA[Canineeducation.ca]]></description>
         <link>https://thegrid.ai/canineeducation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 17:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 17:24:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/canineeducation/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Canine Education]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:acbd440f-ca7c-41cc-8926-9717b9b04c5f</link>
             <guid isPermaLink="false">7c871a4f-4976-4ad1-9443-69a03141f091</guid>
             <pubDate>Wed, 31 Aug 2016 17:16:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Services]]></title>
+            <description><![CDATA[<article><h1>Services</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8171acaa371b18c3c272cc9165a60ae3/noop?input=http%3A%2F%2Fnebula.wsimg.com%2Fd4780c43ff972328b4d714fbddfd329e%3FAccessKeyId%3D22A81555B8E4E4A54485%26disposition%3D0%26alloworigin%3D1"></article>]]></description>
+            <link>http://www.canineeducation.ca/services.html</link>
+            <guid isPermaLink="false">357706af-65c4-451b-8fd7-5d9af88aa808</guid>
+            <pubDate>Wed, 31 Aug 2016 17:24:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
