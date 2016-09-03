@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Canineeducation.ca]]></title>
         <description><![CDATA[Canineeducation.ca]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/canineeducation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 17:03:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 17:17:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/canineeducation/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Canine Education]]></title>
-            <description><![CDATA[<article><h1>Canine Education</h1><p>We work with Animatch, If you want to find a great family companion Animatch is the place to go, we also give a 10% Discount to any Animatch Rescue for training.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71905f88b25948c1567f0c87dac52e21d8d1b4f6.jpg"></article>]]></description>
-            <link>undefinedcanine-education/index.html</link>
+            <description><![CDATA[<article><h1>Canine Education</h1><p>We work with Animatch, If you want to find a great family companion Animatch is the place to go, we also give a 10% Discount to any Animatch Rescue for training.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/196d97f88bfac0f4a6a67740f561fb99a6c798c6.jpg"></article>]]></description>
+            <link>urn:uuid:acbd440f-ca7c-41cc-8926-9717b9b04c5f</link>
             <guid isPermaLink="false">7c871a4f-4976-4ad1-9443-69a03141f091</guid>
-            <pubDate>Sun, 21 Feb 2016 17:03:33 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 17:16:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
